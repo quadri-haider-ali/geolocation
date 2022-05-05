@@ -14,13 +14,13 @@ We may consider two sections of the interface of the Geolocator application, whi
 # How to Run
 1. Git clone <br/>
 ``` $ git clone https://github.com/quadri-haider-ali/geolocation.git```
-2. Open Android Studio and launch the Android SDK manager from it (Tools | Android | SDK Manager)
-3. Ensure the following components are installed and updated to the latest version.
+2. Open Android Studio and launch the Android SDK manager from it (Tools | Android | SDK Manager) <br/>
+3. Ensure the following components are installed and updated to the latest version. <br/>
    i.   Android SDK Platform-Tools <br/>
-   ii.  Android Support Repository <br>
+   ii.  Android Support Repository <br/>
    iii. Google Repository <br/>
-4. Return to Android Studio and select Open an existing Android Studio project
-5. Select the cloned directory
-6. Set the appropriate path of SDK
-7. Build the project
-8. Run
+4. Return to Android Studio and select Open an existing Android Studio project <br/>
+5. Select the cloned directory <br/>
+6. Set the appropriate path of SDK <br/>
+7. Build the project <br/>
+8. Run <br/>
