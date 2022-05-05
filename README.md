@@ -16,9 +16,9 @@ We may consider two sections of the interface of the Geolocator application, whi
 ``` $ git clone https://github.com/quadri-haider-ali/geolocation.git```
 2. Open Android Studio and launch the Android SDK manager from it (Tools | Android | SDK Manager)
 3. Ensure the following components are installed and updated to the latest version.
-   i.   Android SDK Platform-Tools
-   ii.  Android Support Repository
-   iii. Google Repository
+   i.   Android SDK Platform-Tools <br/>
+   ii.  Android Support Repository <br>
+   iii. Google Repository <br/>
 4. Return to Android Studio and select Open an existing Android Studio project
 5. Select the cloned directory
 6. Set the appropriate path of SDK
