@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "916748612769",
+    "firebase_url": "https://final-91d81.firebaseio.com",
+    "project_id": "final-91d81",
+    "storage_bucket": "final-91d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916748612769:android:932399bebd89bff2",
+        "android_client_info": {
+          "package_name": "com.crazyhitty.chdev.ks.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916748612769-g481m9h4iraidgj630s1ujli3vh0g3cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crazyhitty.chdev.ks.firebasechat",
+            "certificate_hash": "26e1f467e9aee2f3db583971527823bd8951ef54"
+          }
+        },
+        {
+          "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrKKjQb0PW6hZ2_ajp6WgCtlK1TEFdrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916748612769:android:ba3626856ba287c5",
+        "android_client_info": {
+          "package_name": "com.example.geolocator.itslit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916748612769-retq3tb13koq772sukmlgodjurpcdhv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geolocator.itslit",
+            "certificate_hash": "26e1f467e9aee2f3db583971527823bd8951ef54"
+          }
+        },
+        {
+          "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrKKjQb0PW6hZ2_ajp6WgCtlK1TEFdrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916748612769:android:5ea1666936c83426",
+        "android_client_info": {
+          "package_name": "com.example.geolocator.safeu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916748612769-50i6crhjgltm6nhurtcianrbvdi4lm3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geolocator.safeu",
+            "certificate_hash": "26e1f467e9aee2f3db583971527823bd8951ef54"
+          }
+        },
+        {
+          "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrKKjQb0PW6hZ2_ajp6WgCtlK1TEFdrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916748612769:android:14f7dfc9bccb6d38",
+        "android_client_info": {
+          "package_name": "com.example.geolocator.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916748612769-5306bo72v2easmoeddmod22i711be8tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geolocator.myapplication",
+            "certificate_hash": "26e1f467e9aee2f3db583971527823bd8951ef54"
+          }
+        },
+        {
+          "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrKKjQb0PW6hZ2_ajp6WgCtlK1TEFdrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916748612769-ju7e4eujtv959po295ap0l2inut3a6kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
