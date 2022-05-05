@@ -12,7 +12,7 @@ Suppose a friend comes to your location but is not aware of your actual location
 We may consider two sections of the interface of the Geolocator application, which are Users & the Location on the map. So users section has the features to login, signup & add a friend and for the section of location on map we have the ability to share one’s location and to add a friend so that he/she may be notified upon one’s arrival.
 
 # How to Run
-1. Git clone\n
+1. Git clone 
 ``` $ git clone https://github.com/quadri-haider-ali/geolocation.git```
 2. Open Android Studio and launch the Android SDK manager from it (Tools | Android | SDK Manager)
 3. Ensure the following components are installed and updated to the latest version.
